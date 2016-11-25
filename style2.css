@@ -1,0 +1,12 @@
+@media screen and (max-width: 800px) {
+  .menuDesktop {
+    visibility: hidden; } }
+@media screen and (min-width: 801px) {
+  .menuMobile {
+    visibility: hidden; }
+
+  .navItem {
+    width: 100px;
+    display: inline-block; } }
+
+/*# sourceMappingURL=style2.css.map */
